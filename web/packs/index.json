@@ -1,6 +1,7 @@
 {
   "packs": [
-    "BoyniKot.json"
+    "BoyniKot.json",
+    "hiostickerpack.json"
   ],
   "homeserver_url": "https://potatoenergy.ru"
 }
